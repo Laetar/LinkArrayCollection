@@ -1,0 +1,9 @@
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task2\bin\Debug\Task2.dll
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task2\bin\Debug\Task2.pdb
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task2\bin\Debug\Task1.dll
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task2\bin\Debug\Task1.pdb
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task2\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task2\obj\Debug\Task2.dll
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task2\obj\Debug\Task2.pdb

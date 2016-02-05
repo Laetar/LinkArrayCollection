@@ -1,0 +1,5 @@
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task1\bin\Debug\Task1.dll
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task1\bin\Debug\Task1.pdb
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task1\obj\Debug\Task1.dll
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task1\obj\Debug\Task1.pdb
+H:\programm\EPAMTASK\Сергеев_Никита_Task05\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
